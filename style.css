@@ -4,7 +4,7 @@
 }
 body
 {
-    background-color: lightblue;
+    background-color: whitesmoke;
 }
 img
 {
@@ -13,20 +13,23 @@ img
 header
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: cadetblue; height: 3rem; padding: 1rem;
+    background-color: #5e5e71; height: 3rem; padding: 1rem;
     width: 100%;
 }
 footer
 {
-    font-family: Arial, Helvetica, sans-serif;
-    height: 7rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-top: 1rem;
     width: 100%;
-    background-color: cadetblue; height: 3rem; padding: 1rem;
+    background-color: #5e5e71; height: 3rem; padding: 1rem;
 }
 section
 {
     margin: 1rem;
+}
+.lightgreyItem
+{
+    color: #bbbfcd;
 }
 .sticky
 {
@@ -34,9 +37,9 @@ section
 }
 .content
 {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     overflow: hidden;
-    background-color: steelblue;
+    background-color: #bbbfcd;
     vertical-align: left;
     padding-left: 3rem;
     padding-top: 6rem;
@@ -47,7 +50,7 @@ section
 }
 .sidebarLeft
 {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     width: 7em;
     float: left;
     font-size: 20px;
@@ -64,7 +67,7 @@ section
 }
 .whiteItem2
 {
-    color: whitesmoke; line-height: 2;
+    color: whitesmoke; line-height: 1.5;
 }
 .centerText
 {
@@ -80,7 +83,7 @@ section
     color: whitesmoke;
     font-size: 18px;
 }
-.lineHeight3
+.lineHeight2
 {
-    line-height: 3;
+    line-height: 2;
 }
