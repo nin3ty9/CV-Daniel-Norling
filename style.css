@@ -1,0 +1,86 @@
+*
+{
+    margin: 0;
+}
+body
+{
+    background-color: lightblue;
+}
+img
+{
+    width: 60rem;
+}
+header
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: cadetblue; height: 3rem; padding: 1rem;
+    width: 100%;
+}
+footer
+{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 7rem;
+    margin-top: 1rem;
+    width: 100%;
+    background-color: cadetblue; height: 3rem; padding: 1rem;
+}
+section
+{
+    margin: 1rem;
+}
+.sticky
+{
+    position: fixed
+}
+.content
+{
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
+    background-color: steelblue;
+    vertical-align: left;
+    padding-left: 3rem;
+    padding-top: 6rem;
+    padding-bottom: 1rem;
+    margin-left: 12rem;
+    margin-right: 12rem;
+    line-height: 2;
+}
+.sidebarLeft
+{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 7em;
+    float: left;
+    font-size: 20px;
+    margin-top: 6rem;
+    padding: 1rem;
+}
+.cadetBlueBG
+{
+    background-color: cadetblue;
+}
+.whiteItem
+{
+    color: whitesmoke;
+}
+.whiteItem2
+{
+    color: whitesmoke; line-height: 2;
+}
+.centerText
+{
+    text-align: center;
+}
+.leftText
+{
+    text-align: left;
+}
+.bread
+{
+    width: 60rem;
+    color: whitesmoke;
+    font-size: 18px;
+}
+.lineHeight3
+{
+    line-height: 3;
+}
